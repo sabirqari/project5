@@ -9,6 +9,8 @@ public class DemoTest5 {
         int b = 20;
         
         System.out.println( a + b);
-        
+        int c = 20;
+		int g = 40;
+		System.out.println( c + g);
 	}
 }
